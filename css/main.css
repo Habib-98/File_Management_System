@@ -1,0 +1,46 @@
+/**
+ *
+ * font-family: 'Merriweather', serif;
+font-family: 'Fjalla One', sans-serif;
+font-family: 'Atomic Age', cursive;
+font-family: 'Orbitron', sans-serif;
+font-family: 'Eagle Lake', cursive;
+ */
+body{
+	background: #494949;
+}
+.name_head a h2{
+	padding-top: 5px;
+	color: #F44336;
+	font-family: 'Atomic Age', cursive;
+}
+.name_head p{
+	padding-top: 5px;
+	color:#d1d8e0;
+	font-size: 20px;
+}
+.profile{
+	background: #84817a;
+	margin:20px;
+	border-radius: 10px;
+	padding-top: 10px;
+	max-height: 250px;
+}
+#profile{
+	align-self: center;
+}
+.profile img{
+	display: block;
+    margin: 0 auto;
+	width: 120px;
+	height: 120px;
+	margin-bottom: 10px;
+}
+.profile h2{
+	font-family: 'Merriweather', serif;
+	font-size: 30px;
+}
+.profile h4{
+	font-family: 'Atomic Age', cursive;
+	font-size: 20px;
+}
